@@ -1,1 +1,1 @@
-Alx Shell Basics
+ALX Shell basics, permissions, redirections, variables and expansions
